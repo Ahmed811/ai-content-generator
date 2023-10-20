@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AI Content Generator</string>
+    <string name="generate_post">Generate Post</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="generate">Generate</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   <string name="app_name">AI Content Generator</string>
+    <string name="generate_post">توليد بوست</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="generate">قم بتفعيل بوست الان</string></resources>
